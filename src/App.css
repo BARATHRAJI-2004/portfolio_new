@@ -1,0 +1,6 @@
+/* App-specific styles if needed. Global styles are in index.css */
+.portfolio-app {
+    position: relative;
+    overflow-x: hidden;
+    width: 100%;
+}
