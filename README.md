@@ -2,7 +2,7 @@
 
 A high-performance, immersive, and glassmorphic personal portfolio built with **React.js**, **Three.js**, and **GSAP**. This portfolio features a dynamic 3D particle background, interactive wireframe shapes, and smooth scroll animations.
 
-![Portfolio Preview](public/assets/profile.png) <!-- Update with a real screenshot if available -->
+![Portfolio Preview](public/assets/logo.png) <!-- Update with a real screenshot if available -->
 
 ## ✨ Features
 
