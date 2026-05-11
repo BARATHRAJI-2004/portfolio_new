@@ -13,11 +13,11 @@ const Education = () => {
       tags: ['Computer Science', 'Full-Time']
     },
     {
-      degree: 'Bachelor of Computer Applications (BCA)',
-      school: 'Bishop Heber College, Trichy',
-      university: 'Bharathidasan University',
+      degree: 'Bachelor of Computer science (Bsc CS)',
+      school: 'Muthurangam Govt Arts College Vellore',
+      university: 'Thiruvalluvar University',
       date: '2021 — 2024',
-      percentage: 82,
+      percentage: 76,
       icon: <BookOpen />,
       tags: ['Software Dev', 'Academic']
     }
