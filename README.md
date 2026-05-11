@@ -66,8 +66,8 @@ The output will be in the `dist/` folder.
 ---
 
 
-go to test  (cyberbarathportfolio.netlify.app)
+go to test  ([cyberbarathportfolio.netlify.app](https://cyberbarathportfolio.netlify.app/))
 
 
 
-*Built with ❤️ by Barathraji P*
+*Built  @ by Barathraji P*
